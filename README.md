@@ -191,6 +191,3 @@ The developer is not responsible for unauthorized use or misuse of this software
 
 ⭐ If you find this project useful, consider giving it a star!
 
----
-
-⭐ If you find this project useful, consider giving it a star!
