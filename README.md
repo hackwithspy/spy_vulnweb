@@ -15,6 +15,16 @@
 
 # SPY_VULNWEB
 
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3-blue?logo=python)
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
+![Version](https://img.shields.io/badge/Version-1.0.0-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+</p>
+
 ### Automated Web Security Assessment Tool
 
 A Kali Linux-exclusive Python-based web security assessment tool for identifying potential security misconfigurations, HTTP security issues, TLS problems, exposed services, and other web security indicators.
@@ -112,6 +122,12 @@ spy_vulnweb/
 ```
 
 *Update this tree to match the actual repository files. Do not publish private scan reports.*
+
+<p align="center">
+
+
+
+</p>
 
 ## 🔐 Authorized Testing Only
 
