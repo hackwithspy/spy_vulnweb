@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/spy_vulnweb-banner.png" width="100%" alt="SPY_VULNWEB Cybersecurity Banner">
+</p>
+
 # 🕵️ SPY_VULNWEB
 
 <div align="right">
