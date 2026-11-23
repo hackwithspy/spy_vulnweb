@@ -1,4 +1,4 @@
-# 🕵️ SPY-VULNWEB
+# 🕵️ SPY_VULNWEB
 
 <div align="right">
 
@@ -53,13 +53,13 @@ A Kali Linux-exclusive Python-based web security assessment tool for identifying
 Clone the repository:
 
 ```bash
-git clone https://github.com/hackwithspy/spy-vulnweb.git
+git clone https://github.com/hackwithspy/spy_vulnweb.git
 ```
 
 Enter the project directory:
 
 ```bash
-cd spy-vulnweb
+cd spy_vulnweb
 ```
 
 Create a virtual environment:
@@ -96,7 +96,7 @@ The tool may generate reports in the following formats, depending on the impleme
 ## 📁 Project Structure
 
 ```text
-spy-vulnweb/
+spy_vulnweb/
 │
 ├── assets/
 ├── spy_reports/
@@ -111,7 +111,7 @@ spy-vulnweb/
 
 ## 🔐 Authorized Testing Only
 
-SPY-VULNWEB is intended for educational purposes, security research, and authorized security assessments.
+SPY_VULNWEB is intended for educational purposes, security research, and authorized security assessments.
 
 Only scan systems for which you have explicit permission.
 
@@ -120,7 +120,7 @@ The developer is not responsible for unauthorized use or misuse of this software
 ## 👨‍💻 Developer
 
 **GitHub:** [@hackwithspy](https://github.com/hackwithspy)
-**Instagram:** @hacked_with_spy_
+**Instagram:** [@hacked_with_spy_](https://www.instagram.com/hacked_with_spy_?utm_source=ig_web_button_share_sheet&gwpx=ZDNlZDc0MzIxNw==)
 **Project:** [SPY-VULNWEB](https://github.com/hackwithspy/spy-vulnweb)
 
 ---
