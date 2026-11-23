@@ -1,23 +1,17 @@
-# 🕵️ SPY_VULNWEB
+# 🕵️ SPY-VULNWEB
 
 <div align="right">
 
 ![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
+![Platform](https://img.shields.io/badge/platform-Kali%20Linux-blue)
+![Language](https://img.shields.io/badge/language-Python-yellow)
+![Security](https://img.shields.io/badge/focus-Security%20Research-red)
 
 </div>
 
-# <span style="color:#e3b21a">SPY_VULNWEB</span>
+# SPY_VULNWEB
 
 ### Automated Web Security Assessment Tool
-
-![Python](https://img.shields.io/badge/Python-3-blue)
-![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-red)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)
-![Security Research](https://img.shields.io/badge/Focus-Security%20Research-orange)
-
----
-
-## Repository description
 
 A Kali Linux-exclusive Python-based web security assessment tool for identifying potential security misconfigurations, HTTP security issues, TLS problems, exposed services, and other web security indicators.
 
@@ -25,39 +19,110 @@ A Kali Linux-exclusive Python-based web security assessment tool for identifying
 
 ---
 
-## Features
+## 🚀 Features
 
-- Web security assessment
-- HTTP security header checks
+- Automated web security assessment
+- HTTP security header analysis
 - TLS/SSL configuration checks
 - Exposed service identification
-- JSON and HTML reporting
-- PDF report generation (if implemented)
+- Security misconfiguration detection
+- Structured security reports
+- JSON and HTML report output
+- PDF report generation
 
-## Platform
+*Keep only the features that are implemented and tested in the current version.*
+
+## 🛠️ Technology Stack
+
+- Python 3
+- Kali Linux
+- HTTP/HTTPS
+- TLS/SSL
+- HTML
+- JSON
+
+## 💻 Platform Requirements
 
 - Kali Linux
 - Python 3
+- pip
+- Internet connection for authorized target assessments
 
-## Usage
+## 📥 Installation
 
-Run only against systems you own or have explicit authorization to test.
-
-```bash
-git clone https://github.com/hackwithspy/spy_vulnweb.git
-cd spy_vulnweb
-```
-
-Activate the virtual environment and install dependencies according to the project requirements.
+Clone the repository:
 
 ```bash
-python spy_vulnweb.py
+git clone https://github.com/hackwithspy/spy-vulnweb.git
 ```
 
-## Disclaimer
+Enter the project directory:
 
-This project is intended for authorized security testing and educational research only. Users are responsible for obtaining permission before testing any system.
+```bash
+cd spy-vulnweb
+```
+
+Create a virtual environment:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+## ▶️ Usage
+
+Start the scanner:
+
+```bash
+python3 spy_vulnweb.py
+```
+
+When prompted, enter the URL of a system you own or have explicit authorization to test.
+
+## 📊 Reports
+
+The tool may generate reports in the following formats, depending on the implemented features:
+
+- JSON
+- HTML
+- PDF
+
+## 📁 Project Structure
+
+```text
+spy-vulnweb/
+│
+├── assets/
+├── spy_reports/
+├── spy_vulnweb.py
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+*Update this tree to match the actual repository files. Do not publish private scan reports.*
+
+## 🔐 Authorized Testing Only
+
+SPY-VULNWEB is intended for educational purposes, security research, and authorized security assessments.
+
+Only scan systems for which you have explicit permission.
+
+The developer is not responsible for unauthorized use or misuse of this software.
+
+## 👨‍💻 Developer
+
+**GitHub:** [@hackwithspy](https://github.com/hackwithspy)
+
+**Project:** [SPY-VULNWEB](https://github.com/hackwithspy/spy-vulnweb)
 
 ---
 
-**Developed by [@hackwithspy](https://github.com/hackwithspy)**
+⭐ If you find this project useful, consider giving it a star!
