@@ -50,6 +50,8 @@ A Kali Linux-exclusive Python-based web security assessment tool for identifying
 - HTML
 - JSON
 
+
+
 ## 💻 Platform Requirements
 
 - Kali Linux
@@ -106,14 +108,14 @@ The tool may generate reports in the following formats, depending on the impleme
 
 ```text
 spy_vulnweb/
-│
-├── assets/
-├── spy_reports/
-├── spy_vulnweb.py
-├── requirements.txt
-├── README.md
-├── LICENSE
-└── .gitignore
+
+assets/
+spy_reports/
+spy_vulnweb.py
+requirements.txt
+README.md
+LICENSE
+.gitignore
 ```
 
 *Update this tree to match the actual repository files. Do not publish private scan reports.*
