@@ -119,9 +119,13 @@ The developer is not responsible for unauthorized use or misuse of this software
 
 ## 👨‍💻 Developer
 
-**GitHub:** [@hackwithspy](https://github.com/hackwithspy)
-**Instagram:** [@hacked_with_spy_](https://www.instagram.com/hacked_with_spy_?utm_source=ig_web_button_share_sheet&gwpx=ZDNlZDc0MzIxNw==)
-**Project:** [SPY-VULNWEB](https://github.com/hackwithspy/spy-vulnweb)
+- **GitHub:** [@hackwithspy](https://github.com/hackwithspy)
+- **Instagram:** [@hacked_with_spy_](https://www.instagram.com/hacked_with_spy_/)
+- **Project:** [SPY_VULNWEB](https://github.com/hackwithspy/spy_vulnweb)
+
+---
+
+⭐ If you find this project useful, consider giving it a star!
 
 ---
 
