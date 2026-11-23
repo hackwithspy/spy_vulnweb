@@ -6,11 +6,6 @@
 
 <div align="right">
 
-![Version](https://img.shields.io/badge/version-1.0.0-brightgreen)
-![Platform](https://img.shields.io/badge/platform-Kali%20Linux-blue)
-![Language](https://img.shields.io/badge/language-Python-yellow)
-![Security](https://img.shields.io/badge/focus-Security%20Research-red)
-
 </div>
 
 # SPY_VULNWEB
